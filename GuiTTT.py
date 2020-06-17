@@ -23,8 +23,8 @@ def start_game():
 	player_won = False
 
 	game_list = [["", "", ""],
-				 ["", "", ""],
-				 ["", "", ""]]
+			["", "", ""],
+			["", "", ""]]
 
 
 	def switch_player():
